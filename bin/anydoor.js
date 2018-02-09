@@ -1,0 +1,1 @@
+// package.json 下的 bin 表示npm全局安装包时候会注册到系统 path 的命令

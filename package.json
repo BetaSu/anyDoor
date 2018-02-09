@@ -1,0 +1,27 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "A simple static server for nodeJs",
+  "main": "src/app.js",
+  "bin": {
+    "anydoor": "bin/anydoor"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetaSu/anyDoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetaSu/anyDoor/issues"
+  },
+  "homepage": "https://github.com/BetaSu/anyDoor#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "handlebars": "^4.0.11",
+    "yargs": "^11.0.0"
+  }
+}
